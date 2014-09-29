@@ -1,0 +1,35 @@
+from random import randint
+import time
+num=randint(2,9)
+print(num)
+time.sleep(3)
+num=randint(2,9)
+print(num)
+time.sleep(3)
+num=randint(2,9)
+print(num)
+time.sleep(3)
+num=randint(2,9)
+print(num)
+time.sleep(3)
+num=randint(2,9)
+print(num)
+time.sleep(3)
+num=randint(2,9)
+print(num)
+time.sleep(3)
+num=randint(2,9)
+print(num)
+time.sleep(3)
+num=randint(2,9)
+print(num)
+time.sleep(3)
+num=randint(2,9)
+print(num)
+time.sleep(3)
+num=randint(2,9)
+print(num)
+#done
+#none
+#none
+#the program was hard to think of
