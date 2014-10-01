@@ -1,7 +1,0 @@
-#Challenge 7
-#Created By: Zach Golik
-name=input("What is your name? ")
-age=input("Hello "+name+", how old are you? ")
-ageNum=int(age)
-newAge=ageNum+1
-print("So your next birthday you are",str(newAge)+"?")
