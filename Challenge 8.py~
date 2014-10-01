@@ -1,0 +1,6 @@
+#Challenge 8
+#Created by: Zach Golik
+width=int(input("Please enter your width: "))
+height=int(input("Please enter your height: "))
+area=width*height
+print("The area is:",str(area))
