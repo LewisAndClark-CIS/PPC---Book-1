@@ -1,7 +1,0 @@
-#Challenge 6
-#Created by: Zach Golik
-DaysPerWeek=int(7)
-HoursPerDay=int(24)
-MinutesPerHour=int(60)
-MinutesPerWeek=(DaysPerWeek*HoursPerDay*MinutesPerHour)
-print(MinutesPerWeek)
