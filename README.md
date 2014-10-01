@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PPC---Book-1
 ============
 
@@ -15,3 +16,8 @@ After each problem, there is a section for you to fill out.  Put the answers in 
 at the end of your program. DON'T print them out, just include them as comments.
 
 Don't forget to use MEANINGFUL variable names. No more "blah", "why", and "fart"...... be professional!
+=======
+First-Project
+=============
+Fix the Python program so that it performs it's job.
+>>>>>>> e4e114d9953f413669f14c3e45f3f37b8dc55fce
